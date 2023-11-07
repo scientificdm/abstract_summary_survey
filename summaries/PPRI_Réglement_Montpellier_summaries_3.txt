@@ -1,0 +1,192 @@
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT INTERDITS
+ 
+• Tous travaux, de quelque nature qu'ils soient, à l'exception de ceux visés au paragraphe ci-dessous, (intitulé "SONT ADMIS"), et 
+notamment : 
+− les reconstructions de bâtiments dont tout ou partie du gros œuvre a été endommagé par une crue, 
+− les constructions nouvelles et les créations de logements, 
+− les créations d’ouverture en dessous de la côte de PHE lorsqu'elle a été définie, 
+− la création et l’extension des sous sols, 
+− les créations de campings et parcs résidentiels de loisirs ainsi que l’augmentation de leur capacité.
+
+>> Résumé :
+
+> Interdiction de travaux dans les zones rouges sauf exceptions telles que la reconstruction de bâtiments endommagés.
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les occupations et activités temporaires (parcs d'attraction, fêtes foraines, marché .....) en dehors de la période du 1er 
+mai au 31 août et sous réserve de s’assurer des conditions météorologiques.
+
+>> Résumé :
+
+> Zones rouges interdites, sauf activités temporaires du 1er mai au 31 août (conditions météo).
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+>> Résumé :
+
+> "Autorisation de constructions et forages A.E.P. dans les zones rouges."
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Tous travaux d'aménagements sportifs et d’équipements légers d’animation et de loisirs de plein air sans création de remblais et 
+sous réserve qu’ils ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Aménagements sportifs et loisirs extérieurs admis dans les zones rouges, sans créations de remblais ni obstacle aux crues.
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries secondaires et peu utilisées (voies piétonnes, pistes cyclables, voies rurales et communales) au 
+niveau du terrain naturel et qui ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Terrassements autorisés dans les "zones rouges" pour petites voiries ne gênant pas l'écoulement des crues.
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT ADMIS
+ 
+MODES CULTURAUX :
+ 
+• Les modes culturaux, la constitution de haies vives, dont les conséquences peuvent être le ralentissement des écoulements ou 
+l'augmentation de la capacité de stockage des eaux, sans toutefois créer d'obstacle à leur écoulement sous forme de barrage.
+
+>> Résumé :
+
+> Haies vives autorisées dans les zones rouges pour ralentir les écoulements et augmenter la capacité de stockage.
+
+
+>>> Verifiable
+
+ZONES ROUGES "RU"
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les  occupations  et   activités   temporaires  (parcs d'attraction,  fêtes  foraines,  marché .....)  en dehors de la période du 1er  
+mai au 31 août et sous réserve de s’assurer des conditions météorologiques.
+
+>> Résumé :
+
+> "Zones rouges RU interdites. Occupation temporaire autorisée hors période estivale sous condition météo."
+
+
+>>> Verifiable
+
+ZONES ROUGES "RU"
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+>> Résumé :
+
+> Nouvelles constructions et forages admis dans les zones rouges RU pour l'eau potable.
+
+
+>>> Verifiable
+
+ZONES ROUGES "RU"
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries secondaires et peu utilisées (voies piétonnes, pistes cyclables, voies rurales et communales) au 
+niveau du terrain naturel et qui ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Petites routes et chemins permis dans les zones rouges, à condition qu'ils ne gênent pas les inondations.
+
+
+>>> Verifiable
+
+ZONE BLEUE "BU"
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les  occupations  et activités temporaires (parcs d'attraction, fêtes foraines .....) en dehors du 15 mars au 15 septembre et 
+sous réserve de s’assurer des conditions météorologiques.
+
+>> Résumé :
+
+> Occupations et activités temporaires interdites sauf du 15 mars au 15 septembre et selon conditions météorologiques.
+
+
+>>> Verifiable
+
+ZONE BLEUE "BU"
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+>> Résumé :
+
+> "ZONE BLEUE" autorise nouveaux forages A.E.P. et constructions.
+
+
+>>> Verifiable
+
+ZONE BLEUE "BU"
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries secondaires et peu utilisées  (voies piétonnes, pistes cyclables, voies rurales et communales) 
+et qui ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Aménagement de petites voiries secondaires sans impact sur l'écoulement des crues dans la zone bleue BU.
+
+

@@ -1,0 +1,706 @@
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’exploitation agricole ou forestière ;
+
+>> Résumé :
+
+> Interdit la construction pour l'agriculture ou la foresterie.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’industrie ou à la fonction d’entrepôt ;
+
+>> Résumé :
+
+> Interdiction de constructions industrielles et d'entrepôts sur le sol.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- dans les espaces verts protégés au titre de l’article L123-1-5 al 7 : toutes les constructions ;
+
+>> Résumé :
+
+> Interdit dans espaces verts protégés : constructions.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les terrains de campings, parcs résidentiels de loisirs ou village de vacances ;
+
+>> Résumé :
+
+> Interdiction de campings, parcs résidentiels de loisirs et villages de vacances sur certains terrains.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les garages collectifs de caravanes ou de résidences mobiles de loisirs ;
+
+>> Résumé :
+
+> Garages pour caravanes et résidences mobiles interdits par l'article 1.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- l'aménagement de terrain pour la pratique des sports ou loisirs motorisés, ou l'aménagement de parcs 
+d'attractions ouverts au public.
+
+>> Résumé :
+
+> Interdiction d'aménager des terrains pour sports motorisés ou parcs d'attractions ouverts au public.
+
+
+>>> Verifiable
+
+ARTICLE 2 : OCCUPATIONS OU UTILISATIONS DU SOL SOUMISES A DES CONDITIONS 
+PARTICULIERES
+ 
+Sont admis sous conditions :
+ 
+- sur les linéaires d’activités : les RdC des constructions nouvelles seront obligatoirement affectés à des 
+activités (commerces, bureaux, artisanat, hébergement hôtelier) ou à des équipements publics ou d’intérêt 
+collectif ;
+
+>> Résumé :
+
+> Linéaires d'activités : RdC de constructions nouvelles réservés aux activités, équipements publics ou d'intérêt collectif.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’exploitation agricole ou forestière ;
+
+>> Résumé :
+
+> Interdiction de constructions agricoles ou forestières sur le sol.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’industrie ou à la fonction d’entrepôt ;
+
+>> Résumé :
+
+> Construction industrielle et d'entrepôt interdites sur le sol.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les terrains de campings, parcs résidentiels de loisirs ou village de vacances ;
+
+>> Résumé :
+
+> Terrain de camping, PRL, village vacances interdits.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les garages collectifs de caravanes ou de résidences mobiles de loisirs ;
+
+>> Résumé :
+
+> "Interdiction des garages collectifs de caravanes et résidences mobiles de loisirs."
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- l'aménagement de terrain pour la pratique des sports ou loisirs motorisés, ou l'aménagement de parcs 
+d'attractions ouverts au public.
+
+>> Résumé :
+
+> Interdiction de pratiquer des sports motorisés ou d'aménager des parcs d'attractions ouverts au public.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’exploitation agricole ou forestière ;
+
+>> Résumé :
+
+> Interdiction de constructions agricoles ou forestières sur le sol.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’industrie ou à la fonction d’entrepôt ;
+
+>> Résumé :
+
+> Interdiction de construire pour l'industrie et les entrepôts.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les terrains de campings, parcs résidentiels de loisirs ou village de vacances ;
+
+>> Résumé :
+
+> Interdiction de terrains de camping, parcs résidentiels de loisirs ou villages de vacances.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- dans les zones rouges Ru (PPRi) : toutes nouvelles constructions hormis celles qui peuvent être admises aux 
+conditions de l’article UC2 suivant.
+
+>> Résumé :
+
+> Zones rouges Ru : Nouvelles constructions interdites sauf exceptions de l'article UC2.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’exploitation agricole ou forestière ;
+
+>> Résumé :
+
+> Interdiction de construire pour l'agriculture ou la foresterie.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’habitat, sauf aux conditions de l’article 2 suivant ;
+
+>> Résumé :
+
+> Interdiction de construire pour l'habitat, sous réserve de l'article 2.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’hébergement hôtelier ;
+
+>> Résumé :
+
+> Interdiction de construire des hôtels sur ce terrain.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- en UEc sont interdits de surcroit les constructions destinées aux bureaux et au commerce ;
+
+>> Résumé :
+
+> Interdiction de bureaux et commerce dans UEc et occupations/utilisations du sol spécifiques.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les terrains de campings, parcs résidentiels de loisirs ou village de vacances ;
+
+>> Résumé :
+
+> Camping et villages de vacances interdits selon l'article 1 du texte.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- l'aménagement de terrain pour la pratique des sports ou loisirs motorisés, ou l'aménagement de parcs 
+d'attractions ouverts au public.
+
+>> Résumé :
+
+> Interdiction de sports motorisés, parcs d'attractions ou aménagement pour loisirs motorisés sur le terrain.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’exploitation agricole ou forestière ;
+
+>> Résumé :
+
+> Constructions non résidentielles interdites pour exploitation agricole/forestière.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les constructions destinées à l’industrie ou à la fonction d’entrepôt ;
+
+>> Résumé :
+
+> Pas d'industrie ni d'entrepôt, selon l'article 1 sur les occupations et utilisations du sol.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- les terrains de campings, parcs résidentiels de loisirs ou village de vacances ;
+
+>> Résumé :
+
+> Interdiction terrains campings, parcs résidentiels de loisirs, villages de vacances.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits :
+ 
+- l'aménagement de terrain pour la pratique des sports ou loisirs motorisés, ou l'aménagement de parcs 
+d'attractions ouverts au public.
+
+>> Résumé :
+
+> Sports/loisirs motorisés et parcs d'attractions publics interdits pour l'aménagement de terrain.
+
+
+>>> Verifiable
+
+ARTICLE 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Toutes les constructions et installations autres que celles qui sont admises aux conditions de l’article 2 sont 
+interdites.
+
+>> Résumé :
+
+> "Constructions et installations interdites sauf conditions article 2."
+
+
+>>> Verifiable
+
+ARTICLE 3 : CONDITIONS DE DESSERTE DES TERRAINS PAR LES VOIES PUBLIQUES OU PRIVEES ET 
+D’ACCES AUX VOIES OUVERTES AU PUBLIC
+ 
+2. Voirie
+ 
+Les voies nouvelles publiques ou privées ouvertes à la circulation automobile doivent bénéficier d’au moins deux 
+débouchés conçus en cohérence avec la trame urbaine existante.
+
+>> Résumé :
+
+> Voies publiques et privées doivent avoir deux accès cohérents avec la trame urbaine existante.
+
+
+>>> Verifiable
+
+ARTICLE 3 : CONDITIONS DE DESSERTE DES TERRAINS PAR LES VOIES PUBLIQUES OU PRIVEES ET 
+D’ACCES AUX VOIES OUVERTES AU PUBLIC
+ 
+2. Voirie
+ 
+Des voies en impasse peuvent être exceptionnellement admises sur un linéaire inférieur à 30 m et pour desservir 
+au plus 5 constructions.
+
+>> Résumé :
+
+> Conditions de desserte des terrains par voies publiques ou privées pour maximum 5 constructions.
+
+
+>>> Verifiable
+
+ARTICLE 6 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES 
+PUBLIQUES
+ 
+Les constructions doivent être édifiées en recul des voies publiques ou privées ouvertes au public et aux 
+emprises publiques : 
+- de 15 mètres minimum de l’axe de la RD127 ; 
+- de 5 mètres minimum de l’alignement des autres voies.
+
+>> Résumé :
+
+> Implantation des constructions en retrait des voies publiques : 15m de l'axe RD127, 5m des autres voies.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Dans les secteurs AUZa, AUZb,  AUZc, AUZd et AUZe :
+ 
+- les constructions destinées à l’habitat ;
+
+>> Résumé :
+
+> Interdiction de construire pour l'habitat dans les secteurs AUZa, AUZb, AUZc, AUZd et AUZe.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Dans les secteurs AUZa, AUZb,  AUZc, AUZd et AUZe :
+ 
+- les constructions destinées à l’exploitation agricole ou forestière.
+
+>> Résumé :
+
+> Interdiction de constructions agricoles ou forestières dans les secteurs AUZa, AUZb, AUZc, AUZd et AUZe.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Dans le secteur AUZf :
+ 
+- les constructions destinées à l’exploitation agricole ou forestière ;
+
+>> Résumé :
+
+> Constructions agricoles interdites dans le secteur AUZf.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Dans le secteur AUZf :
+ 
+- les constructions destinées à l’industrie ou à l’artisanat ;
+
+>> Résumé :
+
+> Interdiction de constructions industrielles et artisanales dans le secteur AUZf.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Dans le secteur AUZf :
+ 
+- les constructions destinées au commerce, de plus de 300 m2 de surface de vente.
+
+>> Résumé :
+
+> Interdiction des constructions commerciales de plus de 300m² dans le secteur AUZf.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Sur l’ensemble de la zone :
+ 
+- les terrains aménagés pour l’accueil de campeurs sous tentes ou en caravanes, ainsi que pour le 
+stationnement des caravanes ;
+
+>> Résumé :
+
+> Interdiction de camper ou stationner des caravanes sur toute la zone concernée.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Sur l’ensemble de la zone :
+ 
+- les habitations légères de loisirs (chalets, bungalow) et les structures démontables ou transportables 
+d’hébergement de loisirs (mobil-home, caravane...) ;
+
+>> Résumé :
+
+> Interdiction des habitations légères et des structures d'hébergement de loisirs dans toute la zone.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Sur l’ensemble de la zone :
+ 
+- les carrières ;
+
+>> Résumé :
+
+> Interdiction de carrières dans la zone.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 1 : OCCUPATIONS OU UTILISATIONS DU SOL INTERDITES
+ 
+Les occupations et utilisations du sol suivantes sont interdites :
+ 
+Sur l’ensemble de la zone :
+ 
+- les dépôts de vieilles ferrailles, de matériaux de démolition ou de déchets divers et toute installation 
+exclusivement destinée à l’entreposage.
+
+>> Résumé :
+
+> Dépôts de ferraille, de démolition et de déchets interdits sur toute la zone.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 6 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES 
+PUBLIQUES
+ 
+Pour les secteurs AUZa, AUZb, AUZc, AUZd et AUZe :
+ 
+- 15 mètres de l’axe des routes départementales,
+
+>> Résumé :
+
+> 15m de la route départementale pour la construction dans les secteurs AUZa, AUZb, AUZc, AUZd et AUZe.
+
+
+>>> Verifiable
+
+ARTICLE AUZ 6 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES 
+PUBLIQUES
+ 
+Pour les secteurs AUZa, AUZb, AUZc, AUZd et AUZe :
+ 
+- 5 mètres de l’alignement des autres voies,
+
+>> Résumé :
+
+> Implantation constructions à 5m de l'alignement des voies pour secteurs AUZa-e (article AUZ 6).
+
+
+>>> Verifiable
+
+ARTICLE AUZ 6 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES 
+PUBLIQUES
+ 
+Pour les secteurs AUZa, AUZb, AUZc, AUZd et AUZe :
+ 
+- 3 mètres de l’alignement des piétonniers et espaces publics y compris les bassins de rétention (quand tous 
+ceux-ci ne sont pas associés à une voie).
+
+>> Résumé :
+
+> Implantation des constructions à 3m des piétonniers et espaces publics pour les secteurs AUZa-e.
+
+
+>>> Verifiable
+
+ARTICLE N 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits toutes constructions et installations, hormis celles qui sont admises à l’article 2 suivant, et en 
+particulier :
+ 
+- Sur les secteurs soumis aux risques de feux de forêt identifiés par le PPRif : 
+• la création, l’installation ou l’extension des campings ; 
+• l’implantation nouvelle d’habitations légères de loisirs ;  
+• le stationnement de caravanes.
+
+>> Résumé :
+
+> Interdictions de constructions et installations, notamment sur les zones à risques de feux de forêt.
+
+
+>>> Verifiable
+
+ARTICLE N 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits toutes constructions et installations, hormis celles qui sont admises à l’article 2 suivant, et en 
+particulier :
+ 
+- En secteur Nha, Nhb et Nhc : toute nouvelle construction, sauf l’extension des bâtiments existants ;
+
+>> Résumé :
+
+> Construction interdite, sauf extension, dans les secteurs Nha, Nhb et Nhc. (15 mots)
+
+
+>>> Verifiable
+
+ARTICLE N 1 : OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+ 
+Sont interdits toutes constructions et installations, hormis celles qui sont admises à l’article 2 suivant, et en 
+particulier :
+ 
+- En secteur Ns : le camping, pratiqué isolément ou sur terrains aménagés, les parcs résidentiels de loisirs, les 
+garages collectifs de caravanes, mobiles-homes ou dépôts de véhicules, l’aménagement de terrains pour la 
+pratique des sports ou loisirs motorisés.
+
+>> Résumé :
+
+> Interdictions de construction et d'installation de camping, parcs résidentiels et garages collectifs en zone Ns.
+
+
+>>> Verifiable
+
+ARTICLE N 2 : OCCUPATIONS OU UTILISATIONS DU SOL SOUMISES A DES CONDITIONS 
+PARTICULIERES
+ 
+Peuvent être admis, sous réserves d’être réalisés conformément aux prescriptions du PPRif ou du PPRi sur les 
+zones à risques concernées :
+ 
+- en N et NL, les constructions, installations et aménagements nécessaires à l’exploitation agricole ou 
+forestière, sauf les locaux d’habitation ou d’accueil du public dans les zones à risque d’incendie identifiés par 
+le PPRif ;
+
+>> Résumé :
+
+> Conditions d'utilisation du sol pour les activités agricoles et forestières dans les zones à risques.
+
+
+>>> Verifiable
+
+ARTICLE N 2 : OCCUPATIONS OU UTILISATIONS DU SOL SOUMISES A DES CONDITIONS 
+PARTICULIERES
+ 
+Peuvent être admis, sous réserves d’être réalisés conformément aux prescriptions du PPRif ou du PPRi sur les 
+zones à risques concernées :
+ 
+- En Nc : les constructions et installations nécessaires au cimetière ;
+
+>> Résumé :
+
+> Construction cimetière autorisée dans certaines conditions.
+
+
+>>> Verifiable
+
+ARTICLE N 3 : CONDITIONS DE DESSERTE DES TERRAINS PAR LES VOIES PUBLIQUES OU PRIVEES 
+ET D’ACCES AUX VOIES OUVERTES AU PUBLIC
+ 
+1. Accès
+ 
+Aucune opération ne peut prendre accès sur les pistes cyclables et les sentiers touristiques.
+
+>> Résumé :
+
+> Accès interdit sur pistes cyclables et sentiers touristiques.
+
+
+>>> Verifiable
+
+ARTICLE N 6 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES 
+PUBLIQUES
+ 
+Les constructions doivent être implantées au-delà des marges de reculement suivantes : 
+- 100 mètres de l’axe de la Liaison Inter-cantonale d’évitement Nord (L.I.E.N.) ; 
+- 75 mètres de l’axe de la RD.986 ;  
+- 30 mètres de l’axe de la RD.127 ; 
+- 15 mètres de l’axe des autres routes départementales ; 
+- 5 mètres minimum de l’alignement des autres voies.
+
+>> Résumé :
+
+> Implantation des constructions en respectant les distances de recul exigées par les voies publiques.
+
+
+>>> Verifiable
+
+ARTICLE N 6 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES 
+PUBLIQUES
+ 
+En Np, le recul minimal est porté à 20,9 mètre de l’axe de la RD27E.
+
+>> Résumé :
+
+> Implantation min. de constructions à 20,9m de l'axe RD27E dans Np.
+
+

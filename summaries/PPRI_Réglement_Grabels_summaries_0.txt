@@ -1,0 +1,188 @@
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT INTERDITS
+ 
+• Tous travaux, de quelque nature qu'ils soient, à l'exception de ceux visés au paragraphe ci-dessous, (intitulé "SONT 
+ADMIS")
+
+>> Résumé :
+
+> À l'exception des travaux visés au paragraphe ci-après.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+>> Résumé :
+
+> Admettre la construction et.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+• Les ouvrages hydrauliques d’intérêt général et de protection indispensables à la régulation des crues après étude 
+hydraulique.
+
+>> Résumé :
+
+> Les structures hydrauliques sont d'intérêt général et sont essentielles.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries secondaires et peu utilisées ( voies piétonnes, pistes cyclables, voies 
+rurales et communales ) au niveau du terrain naturel et qui ne créent pas d’obstacle à l’écoulement des 
+crues.
+
+>> Résumé :
+
+> Évaluation des termes : réalisation des niveaux de terrain naturel et utilisation des routes piétonnières.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les parcs de stationnement des véhicules sous réserve qu’ils soient organisés et réglementés à partir d’un 
+dispositif d’annonces de crues.
+
+>> Résumé :
+
+> - Fournit un parking organisé et réglementé pour les véhicules.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Tous travaux d'aménagements sportifs et d’équipements légers d’animation et de loisirs de plein air
+
+>> Résumé :
+
+> et des installations de loisirs.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les ouvrages hydrauliques d’intérêt général indispensables à la régulation des crues après étude 
+hydraulique
+
+>> Résumé :
+
+> Les structures hydrauliques sont essentielles à l'intérêt général.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+>> Résumé :
+
+> Admettre la construction et.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Tous   travaux   d’aménagements,   sans   création   de   remblais,   destinés   à   créer   des   parcs    et  
+jardins d’agréments
+
+>> Résumé :
+
+> L'objectif de l'aménagement est de créer un parc et un jardin sans créer de remblais.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La  réalisation  de  petites  voiries  secondaires  et  peu  utilisées   (voies piétonnes, pistes cyclables, voies 
+rurales et communales)  et qui ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Les publicités utilisent les termes « réalisation » de choses comme les routes piétonnes et les routes.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+MODES CULTURAUX :
+ 
+• Les serres nécessaires à l’activité agricole, à condition : 
+- qu’il s’agisse de seres-tunnel ou plastique sur arceaux 
+- qu’elles soient disposées dans le sens principal du courant, 
+- qu’elles soient distantes entre elles d’au moins 5 m 
+- qu’elles ne nuisent pas au bon écoulement ou au stockage des eaux
+
+>> Résumé :
+
+> La méthode pour les serres qui sont nécessaires pour les activités agricoles est fournie avec des tunnels ou des cerceaux en plastique, disposés dans la direction principale du courant, séparés les uns des autres d'au moins 5 mètres et sans interférer avec le bon débit ou le bon stockage de l'eau.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+UTILISATION DU SOL :
+ 
+• Le parc de stationnement des véhicules.
+
+>> Résumé :
+
+> Le terrain est utilisé pour garer les véhicules.
+
+

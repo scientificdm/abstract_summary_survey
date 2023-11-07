@@ -1,0 +1,192 @@
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT INTERDITS
+ 
+• Tous travaux, de quelque nature qu'ils soient, à l'exception de ceux visés au paragraphe ci-dessous, (intitulé "SONT ADMIS"), et 
+notamment : 
+− les reconstructions de bâtiments dont tout ou partie du gros œuvre a été endommagé par une crue, 
+− les constructions nouvelles et les créations de logements, 
+− les créations d’ouverture en dessous de la côte de PHE lorsqu'elle a été définie, 
+− la création et l’extension des sous sols, 
+− les créations de campings et parcs résidentiels de loisirs ainsi que l’augmentation de leur capacité.
+
+>> Résumé :
+
+> À l'exception des travaux intitulés SENTADMIS, les travaux comprennent la reconstruction de bâtiments où la totalité ou une partie importante des travaux a été endommagée par les inondations, la construction et l'ouverture de nouveaux bâtiments sous la côte de la PHE, et l'extension.
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les occupations et activités temporaires (parcs d'attraction, fêtes foraines, marché .....) en dehors de la période du 1er 
+mai au 31 août et sous réserve de s’assurer des conditions météorologiques.
+
+>> Résumé :
+
+> Privilèges d'occupation temporaire et d'activités telles que les parcs d'attractions, les fêtes de foire et les marchés.
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+>> Résumé :
+
+> Admettre la construction et.
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Tous travaux d'aménagements sportifs et d’équipements légers d’animation et de loisirs de plein air sans création de remblais et 
+sous réserve qu’ils ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Admis est la construction et le travail sur les installations de loisirs sans créer de remblais.
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries secondaires et peu utilisées (voies piétonnes, pistes cyclables, voies rurales et communales) au 
+niveau du terrain naturel et qui ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Ce terme désigne la prise de conscience des niveaux de terrain naturel et des routes peu fréquentées telles que les sentiers piétonniers et cyclables et les routes rurales et communales.
+
+
+>>> Verifiable
+
+ZONES ROUGES "R"
+ 
+SONT ADMIS
+ 
+MODES CULTURAUX :
+ 
+• Les modes culturaux, la constitution de haies vives, dont les conséquences peuvent être le ralentissement des écoulements ou 
+l'augmentation de la capacité de stockage des eaux, sans toutefois créer d'obstacle à leur écoulement sous forme de barrage.
+
+>> Résumé :
+
+> Modifications du mode opérationnel (p. ex. mode de formation par suite d'une augmentation de la capacité de stockage de l'eau).
+
+
+>>> Verifiable
+
+ZONES ROUGES "RU"
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les  occupations  et   activités   temporaires  (parcs d'attraction,  fêtes  foraines,  marché .....)  en dehors de la période du 1er  
+mai au 31 août et sous réserve de s’assurer des conditions météorologiques.
+
+>> Résumé :
+
+> Privilèges d'occupation temporaire et d'activités (parcs d'attraction, partis de foire, marchés).
+
+
+>>> Verifiable
+
+ZONES ROUGES "RU"
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+>> Résumé :
+
+> Admettre la construction et.
+
+
+>>> Verifiable
+
+ZONES ROUGES "RU"
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries secondaires et peu utilisées (voies piétonnes, pistes cyclables, voies rurales et communales) au 
+niveau du terrain naturel et qui ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Évaluation des termes de sensibilisation au niveau du terrain naturel et sur les routes peu fréquentées (téléphones, pistes cyclables, routes rurales et communales).
+
+
+>>> Verifiable
+
+ZONE BLEUE "BU"
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les  occupations  et activités temporaires (parcs d'attraction, fêtes foraines .....) en dehors du 15 mars au 15 septembre et 
+sous réserve de s’assurer des conditions météorologiques.
+
+>> Résumé :
+
+> Utilisation pour l'occupation temporaire et des activités telles que des parcs et des festivals attrayants.
+
+
+>>> Verifiable
+
+ZONE BLEUE "BU"
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+>> Résumé :
+
+> Admettre la construction et.
+
+
+>>> Verifiable
+
+ZONE BLEUE "BU"
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries secondaires et peu utilisées  (voies piétonnes, pistes cyclables, voies rurales et communales) 
+et qui ne créent pas d’obstacle à l’écoulement des crues.
+
+>> Résumé :
+
+> Conditions publicitaires pour l'utilisation de petites routes (routes téléphoniques, pistes cyclables, routes rurales et communales) et la...
+
+
