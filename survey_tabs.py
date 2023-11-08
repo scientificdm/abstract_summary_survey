@@ -10,7 +10,7 @@ segments = []
 
 for f_name in fileNames:
     # Parse txt files with summaries:
-    f = open("segments/"+f_name+"_segments.txt", "r")
+    f = open("resumes/data/survey/segments/"+f_name+"_segments.txt", "r")
     
     segmenttext = ""
     for line in f:
@@ -36,7 +36,7 @@ summaries = []
 
 for f_name in fileNames:
     # Parse txt files with summaries:
-    f = open("summaries/"+f_name+"_summaries_0.txt", "r")
+    f = open("resumes/data/survey/summaries/"+f_name+"_summaries_0.txt", "r")
      
     for line in f:
         try:
@@ -51,7 +51,7 @@ for i in range(1,4):
     count = 0
     for f_name in fileNames:
         # Parse txt files with summaries:
-        f = open("summaries/"+f_name+"_summaries_"+str(i)+".txt", "r")
+        f = open("resumes/data/survey/summaries/"+f_name+"_summaries_"+str(i)+".txt", "r")
          
         for line in f:
             try:
@@ -102,7 +102,9 @@ def displaySegment(i):
     if indexes != []:
         # Output segment:
         st.write('**Segment',i+1,' :**')
-        st.write(segments[indexes[i]])
+        #st.write(segments[indexes[i]])
+        #st.markdown('<p style="color:Blue;">'+segments[indexes[i]]+'</p>', unsafe_allow_html=True)
+        st.code(segments[indexes[i]])
         
         # 1st summary:
         st.write('**Portion de texte 1 :**')
@@ -141,7 +143,7 @@ def displaySegment(i):
             scores[i][3] = score_4
             
 def outputResults():
-    st.write('**Envoyez le tableau ci-dessous à *maksim.koptelov@unicaen.fr* (sélectionnez "Download as CSV") :**')
+    st.write('**Envoyez le tableau ci-dessous à *maksim.koptelov (at) unicaen.fr* (sélectionnez "Download as CSV") :**')
     st.write(scores)
     
     option_err = st.selectbox('Vérifier les erreurs (Y-Oui, N-No) ?',['N','Y'],key='err')
