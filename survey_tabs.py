@@ -8,28 +8,28 @@ fileNames = ["Verifiable", "Soft", "Non-verifiable"]
 # Load segments:
 segments = []
 
-#for f_name in fileNames:
-#    # Parse txt files with summaries:
-#    f = open("segments/"+f_name+"_segments.txt", "r")
-#    
-#    segmenttext = ""
-#    for line in f:
-#        try:
-#            if '>>>' in line:
-#                # memorize previous segment:
-#                if segmenttext != "":
-#                    segments.append(segmenttext.strip())
-#                    segmenttext = ""
-#            else:
-#                segmenttext += line
-#                    
-#        except ValueError:
-#            print('Invalid input:',line)
-#    
-#    # Memorize the last segment:
-#    segments.append(segmenttext.strip())
-#    
-#    f.close()
+for f_name in fileNames:
+    # Parse txt files with summaries:
+    f = open("segments/"+f_name+"_segments.txt", "r")
+    
+    segmenttext = ""
+    for line in f:
+        try:
+            if '>>>' in line:
+                # memorize previous segment:
+                if segmenttext != "":
+                    segments.append(segmenttext.strip())
+                    segmenttext = ""
+            else:
+                segmenttext += line
+                    
+        except ValueError:
+            print('Invalid input:',line)
+    
+    # Memorize the last segment:
+    segments.append(segmenttext.strip())
+    
+    f.close()
 
 # Load summaries:
 summaries = []
