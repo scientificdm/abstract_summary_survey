@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-fileNames = ["ZONE-A","ZONE-N","ZONE-AU0","ZONE-14AU","ZONE-5AU","ZONE-4AU1","PPRI_Réglement_Montpellier","PPRI_Réglement_Grabels","PLU_Règlement_Grabels"]
+fileNames = ["Verifiable", "Soft", "Non-verifiable"]
 #%%
 # Load segments:
 segments = []
