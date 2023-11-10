@@ -143,7 +143,17 @@ def displaySegment(i):
             scores[i][3] = score_4
             
 def outputResults():
-    st.write('**Envoyez le tableau ci-dessous à *maksim.koptelov (at) unicaen.fr* (sélectionnez "Download as CSV") :**')
+    st.write('**Pour télécharger le fichier des résultats positionnez vous sur une colonne et choisissez la première icône comme dans l\'image ci-dessous :**')
+    
+    col1, col2, col3 = st.columns([1,2,1])
+    with col1:
+        st.write("")
+    with col2:
+        st.image('instruction.png')
+    with col3:
+        st.write("")
+        
+    st.write('**Ensuite, envoyez ce fichier à *maksim.koptelov (at) unicaen.fr*. Avant d\'envoyer le fichier n\'oubliez pas de vérifier les erreurs (en dessous du tableau)**')
     st.write(scores)
     
     option_err = st.selectbox('Vérifier les erreurs (Y-Oui, N-No) ?',['N','Y'],key='err')
