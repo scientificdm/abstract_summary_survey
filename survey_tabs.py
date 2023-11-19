@@ -51,7 +51,7 @@ for i in range(1,4):
     count = 0
     for f_name in fileNames:
         # Parse txt files with summaries:
-        f = open("resumes/data/survey/summaries/"+f_name+"_summaries_"+str(i)+".txt", "r")
+        f = open("summaries/"+f_name+"_summaries_"+str(i)+".txt", "r")
          
         for line in f:
             try:
