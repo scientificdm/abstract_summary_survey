@@ -10,7 +10,7 @@ segments = []
 
 for f_name in fileNames:
     # Parse txt files with summaries:
-    f = open("resumes/data/survey/segments/"+f_name+"_segments.txt", "r")
+    f = open("segments/"+f_name+"_segments.txt", "r")
     
     segmenttext = ""
     for line in f:
@@ -36,7 +36,7 @@ summaries = []
 
 for f_name in fileNames:
     # Parse txt files with summaries:
-    f = open("resumes/data/survey/summaries/"+f_name+"_summaries_0.txt", "r")
+    f = open("summaries/"+f_name+"_summaries_0.txt", "r")
      
     for line in f:
         try:
