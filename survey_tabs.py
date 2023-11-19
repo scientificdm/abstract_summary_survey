@@ -10,7 +10,7 @@ segments = []
 
 for f_name in fileNames:
     # Parse txt files with summaries:
-    f = open("segments/"+f_name+"_segments.txt", "r")
+    f = open("resumes/data/survey/segments/"+f_name+"_segments.txt", "r")
     
     segmenttext = ""
     for line in f:
@@ -36,7 +36,7 @@ summaries = []
 
 for f_name in fileNames:
     # Parse txt files with summaries:
-    f = open("summaries/"+f_name+"_summaries_0.txt", "r")
+    f = open("resumes/data/survey/summaries/"+f_name+"_summaries_0.txt", "r")
      
     for line in f:
         try:
@@ -51,7 +51,7 @@ for i in range(1,4):
     count = 0
     for f_name in fileNames:
         # Parse txt files with summaries:
-        f = open("summaries/"+f_name+"_summaries_"+str(i)+".txt", "r")
+        f = open("resumes/data/survey/summaries/"+f_name+"_summaries_"+str(i)+".txt", "r")
          
         for line in f:
             try:
@@ -77,7 +77,7 @@ with st.sidebar:
     
     #user = 1
     
-    if user in list(range(1,8)):
+    if user in list(range(1,10)):
         if (user == 1) or (user == 7):
             indexes = list(range(0,18))+list(range(93,108))
         elif (user == 2) or (user == 3):
@@ -86,13 +86,17 @@ with st.sidebar:
             indexes = list(range(48,78))
         elif user == 5:
             indexes = list(range(63,93))
-        if user == 6:
+        elif user == 6:
             indexes = list(range(48,63))+list(range(78,93))
+        elif (user == 8) or (user == 9):
+            indexes = list(range(108,128))
 
 #st.write('**Segments:**')
 
 if (user==1) or (user==7):
     tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12, tab13, tab14, tab15, tab16, tab17, tab18, tab19, tab20, tab21, tab22, tab23, tab24, tab25, tab26, tab27, tab28, tab29, tab30, tab31, tab32, tab33, tab34 = st.tabs([str(i) for i in list(range(1,34))]+["Envoyer les résultats"])
+elif (user==8) or (user==9):
+    tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12, tab13, tab14, tab15, tab16, tab17, tab18, tab19, tab20, tab34 = st.tabs([str(i) for i in list(range(1,21))]+["Envoyer les résultats"])
 else:
     tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12, tab13, tab14, tab15, tab16, tab17, tab18, tab19, tab20, tab21, tab22, tab23, tab24, tab25, tab26, tab27, tab28, tab29, tab30, tab34 = st.tabs([str(i) for i in list(range(1,31))]+["Envoyer les résultats"])
 
@@ -229,36 +233,37 @@ with tab19:
     
 with tab20:
     displaySegment(19)
-    
-with tab21:
-    displaySegment(20)
-    
-with tab22:
-    displaySegment(21)
-    
-with tab23:
-    displaySegment(22)
-    
-with tab24:
-    displaySegment(23)
-    
-with tab25:
-    displaySegment(24)
-    
-with tab26:
-    displaySegment(25)
-    
-with tab27:
-    displaySegment(26)
-    
-with tab28:
-    displaySegment(27)
-    
-with tab29:
-    displaySegment(28)
-    
-with tab30:
-    displaySegment(29)
+
+if (user==1) or (user==2) or (user==3) or (user==4) or (user==5) or (user==6) or (user==7):    
+    with tab21:
+        displaySegment(20)
+        
+    with tab22:
+        displaySegment(21)
+        
+    with tab23:
+        displaySegment(22)
+        
+    with tab24:
+        displaySegment(23)
+        
+    with tab25:
+        displaySegment(24)
+        
+    with tab26:
+        displaySegment(25)
+        
+    with tab27:
+        displaySegment(26)
+        
+    with tab28:
+        displaySegment(27)
+        
+    with tab29:
+        displaySegment(28)
+        
+    with tab30:
+        displaySegment(29)
     
 if (user==1) or (user==7):
     with tab31:
@@ -273,7 +278,7 @@ if (user==1) or (user==7):
     with tab34:
         outputResults()
         
-elif user in [2,3,4,5,6]:
+elif user in [2,3,4,5,6,8,9]:
     with tab34:
         outputResults()
 #%%
